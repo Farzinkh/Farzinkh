@@ -7,8 +7,9 @@ I am a electrical engineering student who is interested in AI and Machine Learni
 - ⚡ Fun question: Do you think machine learning would be that revolutionary if stereotypes didn't exist? :thinking:
 ### My projects
 
-+	[LNA](https://github.com/Farzinkh/LNA): Designing an ultra low-noise amplifier by python.
-+	[Filter Project](https://github.com/Farzinkh/FilterProject): Schematic maker for LC, RC & RLC electronic passive filters based on ordered characteristics.
++ [Partial Discharge](https://github.com/Farzinkh/Partial_Discharge): Maintain codes and logs for my partial discharge localization journal article.
++	[Low Noise Amplifier](https://github.com/Farzinkh/LNA): Designing an ultra low-noise amplifier by python.
++	[Passive Filter Project](https://github.com/Farzinkh/FilterProject): Schematic maker for LC, RC & RLC electronic passive filters based on ordered characteristics.
 +	[WIFI component](https://github.com/Farzinkh/wifi): For ESP microcontrollers to have a proper connection and update module frameworks wirelessly (OTA) in the most secure way.
 +	[Socket tool](https://github.com/Farzinkh/sockettool): Python script to send and receive massive encoded files through the network with more than 80 Mbps upload and download speed. 
 +	[Wireless monitoring](https://github.com/Farzinkh/Wireless-monitoring): Real time monitoring of sensor status through UDP connection.
