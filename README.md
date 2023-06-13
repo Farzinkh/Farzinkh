@@ -5,6 +5,9 @@ I am a electrical engineering student who is interested in AI and Machine Learni
 - 🌱 I’m currently learning about security hardwares and algorithms
 - 👯 I’m looking to collaborate on a tech project integrating IoT and Machine Learning for medical purpose
 - ⚡ Fun question: Do you think machine learning would be that revolutionary if stereotypes didn't exist? :thinking:
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Farzinkh&hide_progress=true&hide=cmake,HTML&theme=gruvbox)](https://Farzinkh/github-readme-stats)
+
 ### My projects
 
 + [Partial Discharge](https://github.com/Farzinkh/Partial_Discharge): Maintain codes and logs for my partial discharge localization journal article.
@@ -17,7 +20,7 @@ I am a electrical engineering student who is interested in AI and Machine Learni
 +	[AI on Edge](https://github.com/Farzinkh/AI_EDGE): Deploying face detection model on ESP32 dual core microcontroller and run benchmark.
 +	[Data mining](https://github.com/Farzinkh/Data_Mining): Some data mining projects.
 
-![Farzin khodaveisi's github stats](https://github-readme-stats.vercel.app/api?username=Farzinkh&show_icons=true&title_color=fff&icon_color=FFD700&text_color=ECECEC&bg_color=8A2BE2)
+![Farzin khodaveisi's github stats](https://github-readme-stats.vercel.app/api?username=Farzinkh&show_icons=true&theme=gruvbox)
 
   <a href="https://in.linkedin.com/in/farzin-khodaveisi-84288a18a">
     <img align="left" alt="Hargun | Linkedin" width="24px" src="https://github.com/hargun79/hargun79/blob/master/Assets/Linkedin.svg" />
