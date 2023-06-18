@@ -19,6 +19,7 @@ I am a electrical engineering student who is interested in AI and Machine Learni
 +	[Image collector](https://github.com/Farzinkh/Collector): Sampling images is a task that can sometimes be done by simply placing the camera somewhere while it is capturing with the adjusted setting.
 +	[AI on Edge](https://github.com/Farzinkh/AI_EDGE): Deploying face detection model on ESP32 dual core microcontroller and run benchmark.
 +	[Data mining](https://github.com/Farzinkh/Data_Mining): Some data mining projects.
++ [Lightning Localization](https://github.com/Farzinkh/Lightning_Localization): Designing Deep Neural Networks to predict Lightning Location.
 
 ![Farzin khodaveisi's github stats](https://github-readme-stats.vercel.app/api?username=Farzinkh&show_icons=true&theme=gruvbox)
 
