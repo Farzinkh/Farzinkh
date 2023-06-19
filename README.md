@@ -6,7 +6,9 @@ I am a electrical engineering student who is interested in AI and Machine Learni
 - 👯 I’m looking to collaborate on a tech project integrating IoT and Machine Learning for medical purpose
 - ⚡ Fun question: Do you think machine learning would be that revolutionary if stereotypes didn't exist? :thinking:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Farzinkh&hide_progress=true&hide=cmake,HTML&theme=gruvbox)](https://Farzinkh/github-readme-stats)
+<h3 align="center">
+<a href="https://Farzinkh/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Farzinkh&hide_progress=true&hide_border=true&hide=cmake,HTML&theme=gruvbox&)](https://Farzinkh/github-readme-stats"></a>
+</h3>
 
 ### My projects
 
@@ -21,19 +23,25 @@ I am a electrical engineering student who is interested in AI and Machine Learni
 +	[Data mining](https://github.com/Farzinkh/Data_Mining): Some data mining projects.
 + [Lightning Localization](https://github.com/Farzinkh/Lightning_Localization): Designing Deep Neural Networks to predict Lightning Location.
 
-![Farzin khodaveisi's github stats](https://github-readme-stats.vercel.app/api?username=Farzinkh&show_icons=true&theme=gruvbox)
+<h3 align="center">
+<a href="Farzinkh.github.io"><img src="https://github-readme-stats.vercel.app/api?username=Farzinkh&hide=prs,issues,contribs&show_icons=true&hide_border=true&theme=gruvbox&count_private=true&include_all_commits=true)](https://Farzinkh.github.io"></a>
+</h3>
+<h3 align="center">
+<a href="Farzinkh.github.io"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Farzinkh&theme=gruvbox&hide_border=true&border_radius=5.4)](https://Farzinkh.github.io"></a>
+</h3>
 
+<h3 align="center">
   <a href="https://in.linkedin.com/in/farzin-khodaveisi-84288a18a">
-    <img align="left" alt="Hargun | Linkedin" width="24px" src="https://github.com/hargun79/hargun79/blob/master/Assets/Linkedin.svg" />
+    <img alt="Hargun | Linkedin" width="30px" src="https://github.com/hargun79/hargun79/blob/master/Assets/Linkedin.svg" />
   </a>
   <a href="https://twitter.com/Farzin03838504">
-    <img align="left" alt="Hargun | Twitter" width="26px" src="https://github.com/hargun79/hargun79/blob/master/Assets/Twitter.svg" />
+    <img alt="Hargun | Twitter" width="30px" src="https://github.com/hargun79/hargun79/blob/master/Assets/Twitter.svg" />
   </a>
   <a href="https://www.instagram.com/farzin_khodaveisi">
-    <img align="left" alt="Hargun | Instagram" width="24px" src="https://github.com/hargun79/hargun79/blob/master/Assets/Instagram.svg" />
+    <img alt="Hargun | Instagram" width="30px" src="https://github.com/hargun79/hargun79/blob/master/Assets/Instagram.svg" />
   </a>
   <a href="mailto:farzin.mag@gmail.com">
-    <img align="left" alt="Hargun | Gmail" width="26px" src="https://github.com/hargun79/hargun79/blob/master/Assets/Gmail.svg" />
+    <img alt="Hargun | Gmail" width="30px" src="https://github.com/hargun79/hargun79/blob/master/Assets/Gmail.svg" />
   </a>
-  
+</h3>
 <br><br>
