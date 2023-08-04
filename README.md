@@ -31,7 +31,7 @@ I am a electrical engineering student who is interested in AI and Machine Learni
 </h3>
 
 <h3 align="center">
-  <a href="https://in.linkedin.com/in/farzin-khodaveisi-84288a18a">
+  <a href="https://www.linkedin.com/in/farzin-khodaveisi">
     <img alt="Hargun | Linkedin" width="30px" src="https://github.com/hargun79/hargun79/blob/master/Assets/Linkedin.svg" />
   </a>
   <a href="https://twitter.com/Farzin03838504">
